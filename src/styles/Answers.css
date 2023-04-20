@@ -1,4 +1,4 @@
-/* .div-answers {
+.div-answers {
   width: 40%;
   margin-left: 50%;
   margin-top: 1%;
@@ -22,7 +22,7 @@ button:hover {
   -webkit-transform: scale(1.5);
   transform: scale(1.1);
   cursor: pointer;
-} */
+}
 
 .correct-answers {
   border: 3px solid rgb(6, 240, 15);
