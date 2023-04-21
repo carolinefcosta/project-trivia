@@ -41,3 +41,15 @@ Para rodar todos os testes:
   ```
   npm test
   ```
+![image](https://user-images.githubusercontent.com/115182342/233512193-268a6d3f-cc8f-4ac7-9078-601e5a6c3543.png)
+
+![image](https://user-images.githubusercontent.com/115182342/233512462-f8724d29-6076-481a-ba7c-9685bb029091.png)
+
+![image](https://user-images.githubusercontent.com/115182342/233512304-6ea401d2-cafd-4c2f-95c0-74eda969634c.png)
+
+![image](https://user-images.githubusercontent.com/115182342/233512645-c8598f31-ab83-46a8-a791-0120a2d9c5b2.png)
+
+![image](https://user-images.githubusercontent.com/115182342/233512344-0c5ba55c-6a5a-43c7-836b-8a1e8a21704d.png)
+
+![image](https://user-images.githubusercontent.com/115182342/233512375-3cde7a86-7457-40f3-973b-0dcfbb2ab810.png)
+
